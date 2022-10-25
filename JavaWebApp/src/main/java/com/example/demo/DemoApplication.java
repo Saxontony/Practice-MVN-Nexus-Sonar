@@ -12,10 +12,6 @@ public class DemoApplication {
 		String name = "Kene";
 
 		System.out.println(name);
-
-		Integer age = "25";
-		System.out.println(age + 5);
-		
 	}
 
 }
